@@ -100,6 +100,5 @@ POST	/registrations	Register a user
 👉 http://localhost:8000/docs
 
 
-🖼️ Preview
-<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/0272ebdc-f46b-4af2-8301-cef54cc295a7" />
+
 
